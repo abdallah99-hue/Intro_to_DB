@@ -1,4 +1,6 @@
 -- task_3.sql
--- List all tables in the database passed as argument
+-- List all tables in alx_book_store
+
+USE alx_book_store;
 
 SHOW TABLES;
